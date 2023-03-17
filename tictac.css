@@ -1,0 +1,67 @@
+body{
+	background-color: #000000;
+	color: #ffffff
+}
+
+.heading{
+	display: block;
+	text-align: center;
+	font-size: 60px;
+	margin-bottom: 40px;
+	margin-top: 20px;
+}
+
+.container span{
+	display: block;
+	text-align: center;
+	font-size: 60px;
+	margin-bottom: 40px;
+	margin-top: 20px;
+}
+.btn-cell{
+	margin: 0 auto;
+    padding: 0;
+	vertical-align: middle;
+	line-height: 0px;
+	display: table-cell;
+}
+.cell{
+	
+	font-size: 15px;
+
+	background-color: #ffffff;
+	width: 100px;
+	height: 100px;
+	margin: 2px;
+	font-size: 85px;
+	text-align: center;
+	cursor: pointer;
+	caret-color: transparent;
+  }
+
+.cell:hover{
+	background: #07575B;
+}
+
+#Done, #turn{
+	font-size: 40px;
+
+}
+.shade{
+	background: #07575B; 
+}
+
+.button{
+	width: 200px;
+	font-weight: bold;
+	background-color: #ffffff;
+	color: #003B46;
+	display: block;
+	cursor: pointer;
+	margin: auto;
+	margin-top: 5rem;
+}
+
+.button:hover{
+	background: #07575B;
+}
